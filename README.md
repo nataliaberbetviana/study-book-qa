@@ -11,9 +11,9 @@ Aqui você encontrará um registro da minha jornada para me tornar um profission
 
   <br/>
 
-- [x] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC). 
-- [x] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).
-- [x] Os princípios do teste de software. <a href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-fundamentos.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
+- [x] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC). href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-fundamentos.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
+- [x] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-diferenca.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
+- [x] Os princípios do teste de software. <a href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-ptincipio.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
 - [ ] Ciclo de Vida do Teste de Software (STLC): planejamento, análise, design, implementação, execução, avaliação e encerramento.
 - [ ] Modelos de desenvolvimento de software (Waterfall, Agile, Scrum) e como o QA se encaixa em cada um.
 - [ ] Tipos de testes
