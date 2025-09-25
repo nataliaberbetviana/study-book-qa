@@ -1,0 +1,21 @@
+# WebStorm e outras IDEs da JetBrains
+.idea/
+.DS_Store
+Thumbs.db
+
+# Pastas de dependências
+/node_modules/
+/dist/
+/build/
+
+# Arquivos de ambiente e sensíveis
+.env
+.env.*.local
+
+# Arquivos de logs e temporários
+*.log
+npm-debug.log*
+
+# Arquivos de lock do Node
+package-lock.json
+yarn.lock

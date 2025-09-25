@@ -7,10 +7,10 @@ Aqui você encontrará um registro da minha jornada para me tornar um profission
 
 ---
 <details>
-<summary><strong>Introdução ao QA e Testes de Software</strong></summary>
-<p>[] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC).</p> 
-<p>[] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).</p> 
-<p>[] Os princípios do teste de software.</p> 
+<summary><strong>[Introdução ao QA e Testes de Software](introducao-qa-e-testes-de-software/qa.fundamentos.md)</strong></summary>
+<p>[ x ] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC).</p> 
+<p>[ x ] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).</p> 
+<p>[ x ] Os princípios do teste de software.</p> 
 <p>[] Ciclo de Vida do Teste de Software (STLC): planejamento, análise, design, implementação, execução, avaliação e encerramento.</p>
 <p>[] Modelos de desenvolvimento de software (Waterfall, Agile, Scrum) e como o QA se encaixa em cada um.
 <p>[] Tipos de testes</p>
