@@ -7,41 +7,47 @@ Aqui você encontrará um registro da minha jornada para me tornar um profission
 
 ---
 <details>
-<summary><strong>[Introdução ao QA e Testes de Software](introducao-qa-e-testes-de-software/qa.fundamentos.md)</strong></summary>
-<p>[ x ] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC).</p> 
-<p>[ x ] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).</p> 
-<p>[ x ] Os princípios do teste de software.</p> 
-<p>[] Ciclo de Vida do Teste de Software (STLC): planejamento, análise, design, implementação, execução, avaliação e encerramento.</p>
-<p>[] Modelos de desenvolvimento de software (Waterfall, Agile, Scrum) e como o QA se encaixa em cada um.
-<p>[] Tipos de testes</p>
-<p>[] Níveis de Teste: Teste de Unidade, Teste de Integração, Teste de Sistema e Teste de Aceitação.</p>
-<p>[] Técnicas de Teste: Caixa Preta, Caixa Branca e Caixa Cinza.</p>
+<summary><strong>Introdução ao QA e Testes de Software</strong></summary>
+
+  <br/>
+
+- [x] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC). 
+- [x] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).
+- [x] Os princípios do teste de software. <a href="introducao-qa-e-testes-de-software/qa.fundamentos.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
+- [ ] Ciclo de Vida do Teste de Software (STLC): planejamento, análise, design, implementação, execução, avaliação e encerramento.
+- [ ] Modelos de desenvolvimento de software (Waterfall, Agile, Scrum) e como o QA se encaixa em cada um.
+- [ ] Tipos de testes
+- [ ] Níveis de Teste: Teste de Unidade, Teste de Integração, Teste de Sistema e Teste de Aceitação.
+- [ ] Técnicas de Teste: Caixa Preta, Caixa Branca e Caixa Cinza.
 </details>
 
 <details>
 <summary><strong>Técnicas de Teste e Documentação</strong></summary>
-<p>[] Técnicas de Teste de Caixa Preta: Particionamento de equivalência, análise de valor limite e teste de tabela de decisão.
-<p>[] Técnicas de Teste de Caixa Branca: Cobertura de declaração, cobertura de decisão e cobertura de caminho.</p>
-<p>[] Documentação de Teste: Plano de teste, casos de teste e relatório de defeitos.</p>
-<p>[] Como escrever bons Casos de Teste: Identificação de cenários de teste e passos claros e concisos. </p>
-<p>[] Ferramentas de Gerenciamento de Teste: Visão geral de ferramentas como Jira, TestRail, Xray (Como usar essas ferramentas para organizar e acompanhar os testes.).</p>
-<p>[] Prática: Escrever casos de teste para um aplicativo simples (ex: calculadora online).</p>
+  
+- [ ] Técnicas de Teste de Caixa Preta: Particionamento de equivalência, análise de valor limite e teste de tabela de decisão.
+- [ ] Técnicas de Teste de Caixa Branca: Cobertura de declaração, cobertura de decisão e cobertura de caminho.
+- [ ] Documentação de Teste: Plano de teste, casos de teste e relatório de defeitos.
+- [ ] Como escrever bons Casos de Teste: Identificação de cenários de teste e passos claros e concisos.
+- [ ] Ferramentas de Gerenciamento de Teste: Visão geral de ferramentas como Jira, TestRail, Xray (Como usar essas ferramentas para organizar e acompanhar os testes.).
+- [ ] Prática: Escrever casos de teste para um aplicativo simples (ex: calculadora online).
 </details>
 
 <details>
 <summary><strong>Testes Específicos e Introdução à Automação</strong></summary>
-<p>[] Testes de API:O que são APIs e por que testá-las | Ferramentas para testar APIs (ex: Postman).</p>
-<p>[] Testes de Banco de Dados: Conceitos básicos de SQL | omo validar dados no banco de dados</p>
-<p>[] Testes de Front-End: Como testar a interface do usuário (UI) e a experiência do usuário (UX). | Ferramentas para testes de front-end (ex: Selenium IDE).</p>
-<p>[] Introdução à Automação de Testes: O que é automação de testes e seus benefícios. | Quando automatizar testes e quando não automatizar.</p>
-<p>[] Ferramentas de Automação de Testes: Visão geral de ferramentas como Selenium WebDriver, Cypress. | Configuração básica de um ambiente de automação.</p>
-<p>[] Prática: Automatizar um caso de teste simples usando Selenium IDE ou outra ferramenta de automação.</p>
+  
+- [ ] Testes de API: O que são APIs e por que testá-las | Ferramentas para testar APIs (ex: Postman).
+- [ ] Testes de Banco de Dados: Conceitos básicos de SQL | omo validar dados no banco de dados.
+- [ ] Testes de Front-End: Como testar a interface do usuário (UI) e a experiência do usuário (UX). | Ferramentas para testes de front-end (ex: Selenium IDE).
+- [ ] Introdução à Automação de Testes: O que é automação de testes e seus benefícios. | Quando automatizar testes e quando não automatizar.
+- [ ] Ferramentas de Automação de Testes: Visão geral de ferramentas como Selenium WebDriver, Cypress. | Configuração básica de um ambiente de automação.
+- [ ] Prática: Automatizar um caso de teste simples usando Selenium IDE ou outra ferramenta de automação.
 </details>
 
 <details>
 <summary><strong>Tópicos Avançados e Prática Contínua</strong></summary>
-<p>[] Aprofundar em um tópico específico (ex: testes de performance, testes de segurança, automação de testes).</p>
-<p>[] Criar projeto pessoal.</p>
+  
+- [ ] Aprofundar em um tópico específico (ex: testes de performance, testes de segurança, automação de testes).
+- [ ] Criar projeto pessoal.
 </details>
 
 ---
