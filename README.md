@@ -1,63 +1,81 @@
-# Minha jornada de aprendizado em QA 🚀
-Este repositório é um guia de estudos e portfólio pessoal focado em **Quality Assurance**. O objetivo é documentar meu aprendizado em teoria e prática de testes de software.
+<a id="top"></a>
+<img src="https://img.shields.io/badge/Progresso-0%25-red" width="200" />
+# Roteiro Completo: De Analista de QA a Engenheiro de Qualidade
 
----
-### 📚 Sobre o Projeto
-Aqui você encontrará um registro da minha jornada para me tornar um profissional de QA. O conteúdo está organizado por módulos, cobrindo desde os fundamentos até as ferramentas mais avançadas de automação.
+Este repositório documenta uma jornada de aprendizado completa para se tornar um profissional de Qualidade de Software, cobrindo desde os fundamentos teóricos de Quality Assurance (QA) até a prática de Testes Manuais e Automação.
 
----
-<details>
-<summary><strong>Introdução ao QA e Testes de Software</strong></summary>
-
-  <br/>
-
-- [x] O que é QA (Quality Assurance) e sua importância no ciclo de vida do desenvolvimento de software (SDLC). <a href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-fundamentos.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
-- [x] Diferença entre QA, Teste de Software e Controle de Qualidade (QC).<a href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-diferenca.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
-- [x] Os princípios do teste de software. <a href="https://github.com/nataliaberbetviana/study-book-qa/blob/main/introducao-qa-e-testes-de-software/qa-principio-teste.md" style="display:inline-block;padding:4px 8px;background-color:#007ACC;color:white;text-decoration:none;border-radius:4px;font-weight:bold;font-size:16px;">📁 Ver Conteúdo</a>
-- [ ] Ciclo de Vida do Teste de Software (STLC): planejamento, análise, design, implementação, execução, avaliação e encerramento.
-- [ ] Modelos de desenvolvimento de software (Waterfall, Agile, Scrum) e como o QA se encaixa em cada um.
-- [ ] Tipos de testes
-- [ ] Níveis de Teste: Teste de Unidade, Teste de Integração, Teste de Sistema e Teste de Aceitação.
-- [ ] Técnicas de Teste: Caixa Preta, Caixa Branca e Caixa Cinza.
-</details>
-
-<details>
-<summary><strong>Técnicas de Teste e Documentação</strong></summary>
-  
-- [ ] Técnicas de Teste de Caixa Preta: Particionamento de equivalência, análise de valor limite e teste de tabela de decisão.
-- [ ] Técnicas de Teste de Caixa Branca: Cobertura de declaração, cobertura de decisão e cobertura de caminho.
-- [ ] Documentação de Teste: Plano de teste, casos de teste e relatório de defeitos.
-- [ ] Como escrever bons Casos de Teste: Identificação de cenários de teste e passos claros e concisos.
-- [ ] Ferramentas de Gerenciamento de Teste: Visão geral de ferramentas como Jira, TestRail, Xray (Como usar essas ferramentas para organizar e acompanhar os testes.).
-- [ ] Prática: Escrever casos de teste para um aplicativo simples (ex: calculadora online).
-</details>
-
-<details>
-<summary><strong>Testes Específicos e Introdução à Automação</strong></summary>
-  
-- [ ] Testes de API: O que são APIs e por que testá-las | Ferramentas para testar APIs (ex: Postman).
-- [ ] Testes de Banco de Dados: Conceitos básicos de SQL | omo validar dados no banco de dados.
-- [ ] Testes de Front-End: Como testar a interface do usuário (UI) e a experiência do usuário (UX). | Ferramentas para testes de front-end (ex: Selenium IDE).
-- [ ] Introdução à Automação de Testes: O que é automação de testes e seus benefícios. | Quando automatizar testes e quando não automatizar.
-- [ ] Ferramentas de Automação de Testes: Visão geral de ferramentas como Selenium WebDriver, Cypress. | Configuração básica de um ambiente de automação.
-- [ ] Prática: Automatizar um caso de teste simples usando Selenium IDE ou outra ferramenta de automação.
-</details>
-
-<details>
-<summary><strong>Tópicos Avançados e Prática Contínua</strong></summary>
-  
-- [ ] Aprofundar em um tópico específico (ex: testes de performance, testes de segurança, automação de testes).
-- [ ] Criar projeto pessoal.
-</details>
-
+O roteiro foi dividido em três fases, cada uma focada em um conjunto de habilidades e conhecimentos essenciais para o desenvolvimento de uma carreira sólida na área de tecnologia.
 ---
 
-### 🤝 Contato
+## 🎯 Objetivo do Repositório
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser conversar sobre QA, sinta-se à vontade para me contatar:
+O principal objetivo é servir como um portfólio de projetos e um guia de estudo. Aqui você encontrará:
+* Documentação: Modelos de planos de teste, casos de teste e relatórios de bugs.
+* Projetos Práticos: Scripts de automação de testes web e de API.
+* Recursos Úteis: Links e referências para aprofundamento em cada tópico.
+--- 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliaberbetviana/)
+## 🗺️ As Três Fases da Jornada
 
-### 🙏 Agradecimentos
+### Fase 1: O Pensamento do QA e o Teste Manual
+Nesta fase, o foco é construir o alicerce do pensamento crítico em relação à qualidade.
+* [ ] Conceitos Fundamentais: Entendemos o que é qualidade sob a ótica do usuário e do negócio (Funcionalidade, Usabilidade, Estabilidade, etc.).
+* [ ] Habilidades de Analista: Praticamos a análise de requisitos e o design de testes usando técnicas como Análise de Valor Limite e Particionamento de Equivalência.
+* [ ] Prática Diária: Desenvolvemos a habilidade de escrever relatórios de bugs claros e documentar o processo de teste (STLC).
+* [ ] Ferramentas Utilizadas: Jira, Trello, TestRail (ou similar).
 
-Agradeço a todos os instrutores e à comunidade de QA por me ajudarem nessa jornada de aprendizado.
+### Fase 2: Automação e a Transformação para Engenheiro
+
+A transição de "pensar em QA" para "codificar em QA". Aqui, aplicamos a lógica de programação para automatizar o que aprendemos na fase 1.
+* [ ] Fundamentos de Programação: Dominamos o Python (com foco em POO), o Git e o GitHub.
+* [ ] Automação Web: Utilizamos Selenium ou Playwright para automatizar testes de interface do usuário, com foco em localizadores como CSS Selectors e XPath.
+* [ ] Automação de API: Usamos a biblioteca requests e o framework pytest para testar a lógica interna da aplicação.
+* [ ] Integração Contínua: Aprendemos a integrar nossos testes em um pipeline de CI/CD usando GitHub Actions ou Jenkins.
+
+### Fase 3: O QA Estratégico e a Especialização
+
+Nesta fase, aprofundamos os conhecimentos e assumimos um papel mais estratégico na equipe de desenvolvimento.
+* [ ] Testes Avançados: Exploramos Testes de Performance (com JMeter) e Testes de Segurança (com OWASP ZAP), além de testes em ambientes de nuvem (AWS).
+* [ ] Metodologias: Adotamos o Behavior-Driven Development (BDD) para escrever testes colaborativos e focados no comportamento do usuário.
+* [ ] Soft Skills: Fortalecemos a comunicação, o pensamento crítico e a capacidade de ser um "advogado da qualidade" dentro da equipe.
+---
+
+## 🚀 Como Usar Este Repositório
+
+Cada pasta corresponde a um tópico ou projeto específico. Sinta-se à vontade para explorar os exemplos de código, a documentação e os recursos.
+* [ ] /fase1_testes_manuais/: Modelos de documentação e exemplos de casos de teste.
+* [ ] /fase2_automacao/: Scripts de automação web e de API.
+* [ ] /fase3_especializacao/: Projetos avançados e conceitos específicos.
+
+Este é um documento vivo e será atualizado à medida que a jornada de aprendizado avança. Sua contribuição e feedback são sempre bem-vindos!
+
+---
+
+## 🤝 Como Contribuir
+
+Este repositório é um guia, mas você pode ajudar a torná-lo ainda melhor!
+
+    Abra uma Issue: Sugira novos tópicos, exercícios ou projetos.
+
+    Envie um Pull Request: Corrija erros ou adicione conteúdo.
+
+Juntos, podemos criar o melhor recurso para iniciantes em lógica de programação!
+
+---
+
+## 🔗 Conecte-se
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/seu-nome-de-perfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge do LinkedIn">
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge do Gmail">
+  </a>
+</div>
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
