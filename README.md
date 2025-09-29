@@ -5,6 +5,7 @@
 Este repositório documenta uma jornada de aprendizado completa para se tornar um profissional de Qualidade de Software, cobrindo desde os fundamentos teóricos de Quality Assurance (QA) até a prática de Testes Manuais e Automação.
 
 O roteiro foi dividido em três fases, cada uma focada em um conjunto de habilidades e conhecimentos essenciais para o desenvolvimento de uma carreira sólida na área de tecnologia.
+
 ---
 
 ## 🎯 Objetivo do Repositório
